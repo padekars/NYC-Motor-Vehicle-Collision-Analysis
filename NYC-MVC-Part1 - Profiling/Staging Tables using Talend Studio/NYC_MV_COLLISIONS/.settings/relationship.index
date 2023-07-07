@@ -1,0 +1,1296 @@
+[ {
+  "baseItem" : {
+    "id" : "_-c8RUN12Ee2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_ped_location",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_0Q4-QN6NEe299-UZFU6K3Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_contributing_factor",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_persons_contributing_factors",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collisions_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_0qV8kN17Ee2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_person_sex",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_1DEQEHAWEe2cseabXHXp0g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_contributing_factor",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_22WRUN5QEe2u5cfFUGQsYg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Vp9NoNvOEe2ed-GaAIgZmQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Vp9NoNvOEe2ed-GaAIgZmQ - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_driver_license_jurisdiction",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_driver_license_status",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_point_of_impact",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_pre_crash",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_public_property_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_state_registration",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_travel_direction",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_vehicle_make",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_vehicle_model",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_vehicle_type",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_2OWa4N1YEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_2Xw8IN2FEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_state_registration",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_3QbUsN6REe299-UZFU6K3Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_contributing_factor",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collisions_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collisions_vehicles_contributing_factors",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_3tveUN2KEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_model",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_4hNLcNvxEe2hs50uqI8G_w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_HrZpQNvoEe2DXdQbHEJXsQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_HrZpQNvoEe2DXdQbHEJXsQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_5gx-sN2JEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_make",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_7B4KkN10Ee2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_emotional_status",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_7onI0N6EEe299-UZFU6K3Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_type_code",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_crashes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_crashes_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_9HuOwHAxEe2cseabXHXp0g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_VEHICLE_DAMAGE",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EfMEcN1zEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_ejection",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_IzgbgN2CEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_point_of_impact",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JgMFsN1eEe2xHNEuYEcwBg",
+    "version" : "1.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_KDnx0N19Ee2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_persontype",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_LsL1sNy6Ee2tmO8-slAI8Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_M1zx8N-0Ee2Yr7FWcPhBzw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_driver_license_jurisdiction",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_driver_license_status",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_point_of_impact",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_pre_crash",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_public_property_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_state_registration",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_travel_direction",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_make",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_model",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_type",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collisions_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_NEV9YN1oEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_contributing_factor",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - load_contributing_factor",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_NesNcN4gEe2fD5o5mKx03g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Vp9NoNvOEe2ed-GaAIgZmQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Vp9NoNvOEe2ed-GaAIgZmQ - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_bodily_injury",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_complaint",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_ejection",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_emotional_status",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_ped_action",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_ped_location",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_ped_role",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_person_injury",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_person_sex",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_persontype",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_position_in_vehicle",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_safety_equipment",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_PjnCMN6GEe299-UZFU6K3Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_driver_license_jurisdiction",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_driver_license_status",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_person_sex",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_point_of_impact",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_pre_crash",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_public_property_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_state_registration",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_travel_direction",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_make",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_model",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_type",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collisions_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QqEX0N1xEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_driver_license_status",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_RtdsgN2HEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_travel_direction",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_S47HENvnEe2DXdQbHEJXsQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1-Oc4NvnEe2DXdQbHEJXsQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1-Oc4NvnEe2DXdQbHEJXsQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_U5W90G8HEe2cseabXHXp0g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_DRIVER_LICENSE_JURISDICTION",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_DRIVER_LICENSE_STATUS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_PERSON_SEX",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_POINT_OF_IMPACT",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_PRE_CRASH",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_PUBLIC_PROPERTY_DAMAGE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_STATE_REGISTRATION",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_TRAVEL_DIRECTION",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_VEHICLE_MAKE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_VEHICLE_MODEL",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_VEHICLE_TYPE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_WMPvEHAlEe2cseabXHXp0g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_CONTRIBUTING_FACTOR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Tnx_Crashes_contribution_Vechicletype",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - dim_vehicle_type_code",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - tnx_crashes_vehicle",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Wo85oN2IEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - load_vehicle_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_XaJXsN4lEe2mMrpdUaWUig",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - load_contributing_factor",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collisions_bigquery",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_XnJy8N5nEe2mMrpdUaWUig",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_public_property_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_XsvaQN16Ee2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_person_injury",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Ymm-IN1REe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ZM7fIN6BEe299-UZFU6K3Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_arrest_borough",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_crashes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collisions_bigquery",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_aKElMN5zEe23MvaTcgpJ8A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_bodily_injury",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_complaint",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_ejection",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_emotional_status",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_ped_action",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_ped_location",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_ped_role",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_person_injury",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_person_sex",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_persontype",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_position_in_vehicle",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_safety_equipment",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ag8l0HAiEe2cseabXHXp0g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_CONTRIBUTING_FACTOR",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_g4QCYN2MEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_type_code",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - load_vehicle_type_code",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_jc6EUN44Ee2CQLtt5KSb_g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_contributing_factor",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_jcQy8N8bEe23baWao8wjcA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Vp9NoNvOEe2ed-GaAIgZmQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Vp9NoNvOEe2ed-GaAIgZmQ - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_contributing_factor",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_jejQ4N15Ee2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_ped_role",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kGligG7yEe2QTISNmNfhrQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - count_ContributingFactor",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - count_VechicleTyoe",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - dim_arrest_borough",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - fct_collision_crashes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - stg_nyc_mv_collisions_BigQuery",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_pIwoAN-lEe2004fpnaUlxw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collisions_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collisions_vehicles_vehicle_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_pMrMIN2LEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_type",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_pRwd0HAZEe2cseabXHXp0g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Zw05wGl6Ee21_YuT_sUgtg - Dim_CONTRIBUTING_FACTOR",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_rOFaYN8kEe2cl6H9qQ-CeQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Vp9NoNvOEe2ed-GaAIgZmQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Vp9NoNvOEe2ed-GaAIgZmQ - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xTRBQNv1Ee2Gf_f5Ykk7Tw - dim_vehicle_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_sO1DoN2NEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collisions_bigquery",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_splG8N2CEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_position_in_vehicle",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_uvQUoN1vEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_driver_license_jurisdiction",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_vjHqcN2DEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_pre_crash",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_w5nrsN11Ee2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_ped_action",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_xJMgQN5bEe2mMrpdUaWUig",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - load_vehicle_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ykD2cN2EEe2xHNEuYEcwBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_safety_equipment",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - stg_nyc_mv_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_zBSCcN6LEe299-UZFU6K3Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - dim_vehicle_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collision_persons",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collisions_vehicles",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_OzPxcNyzEe2maa-YTCVHfw - fct_collisions_vehicles_vehicle_damage",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
